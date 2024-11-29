@@ -1,1 +1,3 @@
 # newsFeed
+
+rss-parser
